@@ -15,7 +15,7 @@ The following are not distributed:
 - quality adjudication records;
 - the collection and extraction pipelines.
 
-Where explicitly requested by journal editors or peer reviewers, the authors may arrange confidential access to relevant materials for verification, case by case and subject to technical feasibility, copyright, the source archives' terms of use and any necessary permissions. Such access confers no right to redistribute third-party archival texts. The long-term aim is to make the complete corpus publicly available through staged releases; no timetable is implied.
+Requests for confidential access to additional research materials may be considered when explicitly required for editorial or peer-review assessment, subject to technical feasibility, copyright and relevant source-licensing restrictions. No unrestricted access to the full-text corpus is currently offered. Any such access confers no right to redistribute third-party archival texts. The long-term aim is to make the complete corpus publicly available through staged releases; no timetable is implied.
 
 ## Coverage
 

@@ -1,8 +1,8 @@
-# Indian Political Text Corpus (IPTC v1.1): public aggregate metadata
+# Indian Political Text Corpus (IPTC v1.1): aggregate metadata release
 
-This repository holds aggregate metadata for the frozen IPTC v1.1 collection, along with a checking script that uses only the Python standard library. It is not a full data release. It contains no political texts and no per-record metadata. It also leaves out source PDF or HTML files, page snapshots, source URLs, text hashes and the collection or extraction pipelines.
+This repository is an **aggregate metadata release** for the frozen IPTC v1.1 collection, with a checking script that uses only the Python standard library. It is not the corpus itself and not a full data release. It contains no political texts and no per-record metadata. It also leaves out source PDF or HTML files, page snapshots, source URLs, text hashes and the collection or extraction pipelines.
 
-IPTC v1.1 contains **75,431** records and **524,473,982** whitespace-delimited words, drawn from 11 source and document-type categories.
+The frozen IPTC v1.1 archive, which is not included here, contains **75,431** records and **524,473,982** whitespace-delimited words, drawn from 11 source and document-type categories.
 
 ## Contents
 
