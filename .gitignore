@@ -1,0 +1,13 @@
+# Keep unpublished corpus data and research artefacts out of Git
+raw/
+restricted/
+private/
+fulltext/
+snapshots/
+pdfs/
+html/
+record_index_internal.csv
+*.sqlite
+*.db
+*.parquet
+__pycache__/

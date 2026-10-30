@@ -1,0 +1,12 @@
+category_code,institutional_domain,source_document_type,archival_language_labels,records,whitespace_delimited_words
+A,Executive,Archived PMO speeches,English; Hindi,1562,1815154
+B,Executive,PIB PMO releases,English; Hindi,28276,17609087
+C,Executive,PIB MHA releases,English; Hindi,7274,4091572
+D,Party,BJP speeches,English; Hindi,3962,7540485
+E,Lok Sabha,Lok Sabha English Part 2 debate sample,English,13825,15564888
+F,Lok Sabha,Lok Sabha Hindi daily texts,Hindi,1293,32845875
+G,Lok Sabha,Lok Sabha English daily texts,English,1326,136173327
+H,Lok Sabha,Lok Sabha original-language daily texts,Original language; English,1441,121806984
+I,Lok Sabha,Lok Sabha Questions,Original language; English; unlabelled,13569,6356292
+J,Rajya Sabha,Rajya Sabha debates,Hindi; English,1504,57451547
+K,Rajya Sabha,Rajya Sabha floor records,Mixed,1399,123218771

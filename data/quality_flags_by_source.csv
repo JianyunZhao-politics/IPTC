@@ -1,0 +1,12 @@
+category_code,source_document_type,records,missing_date,date_out_of_window,review_pending,ocr_noise_high,legacy_font_encoding,legacy_conversion_residue,text_truncated_300k,text_truncated_hindi_daily
+A,Archived PMO speeches,1562,0,0,0,0,0,0,0,0
+B,PIB PMO releases,28276,0,0,6320,0,0,0,0,0
+C,PIB MHA releases,7274,0,0,1116,0,0,0,0,0
+D,BJP speeches,3962,2,42,3049,0,0,0,0,0
+E,Lok Sabha English Part 2 debate sample,13825,0,0,486,1424,0,0,0,0
+F,Lok Sabha Hindi daily texts,1293,0,0,268,397,10,0,0,771
+G,Lok Sabha English daily texts,1326,0,0,1326,6,0,0,0,0
+H,Lok Sabha original-language daily texts,1441,0,0,1441,727,598,0,0,0
+I,Lok Sabha Questions,13569,0,0,1050,62,0,0,0,0
+J,Rajya Sabha debates,1504,0,0,637,14,39,660,1055,0
+K,Rajya Sabha floor records,1399,0,0,1397,10,1094,0,0,0
